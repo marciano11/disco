@@ -1,0 +1,28 @@
+@font-face {
+    font-family: myTechno;
+    src: url(fonts/Stackyard.ttf);
+}
+
+h1
+{
+    text-align: center;
+    color: white;
+}
+body {
+    background-image: url(leukachtergrondje.gif);
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+#myName {
+    color: #00ff00;
+    font-family: myTechno;
+    font-size: 100px;
+    background-image: url(geinig.png);
+    background-size: cover;
+    
+    width: 600px;
+    padding: 20px;
+    text-align: center;
+    margin: 100px auto;
+}
